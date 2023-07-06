@@ -9,7 +9,7 @@ export default function App() {
         <footer>
           This project was coded by Ghada Odeh and is{" "}
           <a
-            href="https://github.com/godeh2016"
+            href="https://github.com/godeh2016/weather-app-react"
             target="_blank"
             rel="noreferrer"
           >
