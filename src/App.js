@@ -13,8 +13,8 @@ export default function App() {
             target="blank"
             rel="noreferrer"
           >
-            Ghada Odeh,
-          </a>
+            Ghada Odeh
+          </a>{" "}
           and is{" "}
           <a
             href="https://github.com/godeh2016/weather-app-react"
@@ -22,7 +22,7 @@ export default function App() {
             rel="noreferrer"
           >
             open-sourced on GitHub
-          </a>
+          </a>{" "}
           and{" "}
           <a
             href="https://weather-app-react-ghada-odeh.netlify.app/"
